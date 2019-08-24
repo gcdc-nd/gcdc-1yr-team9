@@ -1,7 +1,18 @@
-# gcdc-1yr-team9
-Repo for Team 9 :: Event - Google Cloud Developer Community New Delhi
+# gdgc-1yr-team9
+Repo for Team 9 :: Event - GDG Cloud New Delhi
 
-**Get started:**
+## Run on Google Cloud
+Anyone can run/deploy this project: **TechCraft** on [Google Cloud Run](https://cloud.google.com/run/) by clicking the bellow button.
+
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/gdgcloudnd/gdgc-1yr-team9.git)
+
+*Prerequisites:*  
+*1. Should have a GCP Account with a test project to which Google Cloud Run will be attached*
+
+*Reference:*  
+*1. For more info on Cloud Run Button or to implement it on your public repositories refer [here](https://github.com/GoogleCloudPlatform/cloud-run-button)*
+
+## Get Started (for participants)
  1. Fork the repo to your account
  ![enter image description here](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
  2.  Then clone it from your account to start development.
